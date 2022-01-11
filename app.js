@@ -1,4 +1,4 @@
-console.log("hello and welcome")
+
 showNotes();
 
 let addBtn=document.getElementById("addBtn");
